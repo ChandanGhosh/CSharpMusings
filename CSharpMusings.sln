@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointAsmxServiceAsWCFService", "SharePointAsmxServiceAsWCFService\SharePointAsmxServiceAsWCFService.csproj", "{295CDBB2-EBFC-4ED2-BD39-6714BB18AC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStructs", "WorkingWithStructs\WorkingWithStructs.csproj", "{31E3314C-1008-404C-84D4-26FCBBB00C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWithDelegates", "AdventureWithDelegates\AdventureWithDelegates.csproj", "{96119B01-0490-41F5-9279-D6EF929F83E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldAccessVsLocalVariableAccessPerf", "FieldAccessVsLocalVariableAccessPerf\FieldAccessVsLocalVariableAccessPerf.csproj", "{779881F0-670E-4CD8-9EC9-64BEB19D706A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCNotificationsWhenGarbageCollected", "GCNotificationsWhenGarbageCollected\GCNotificationsWhenGarbageCollected.csproj", "{7B395E70-BB78-44B9-A69B-94C25F956691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295CDBB2-EBFC-4ED2-BD39-6714BB18AC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295CDBB2-EBFC-4ED2-BD39-6714BB18AC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295CDBB2-EBFC-4ED2-BD39-6714BB18AC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295CDBB2-EBFC-4ED2-BD39-6714BB18AC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E3314C-1008-404C-84D4-26FCBBB00C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E3314C-1008-404C-84D4-26FCBBB00C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E3314C-1008-404C-84D4-26FCBBB00C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E3314C-1008-404C-84D4-26FCBBB00C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96119B01-0490-41F5-9279-D6EF929F83E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96119B01-0490-41F5-9279-D6EF929F83E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96119B01-0490-41F5-9279-D6EF929F83E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96119B01-0490-41F5-9279-D6EF929F83E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779881F0-670E-4CD8-9EC9-64BEB19D706A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779881F0-670E-4CD8-9EC9-64BEB19D706A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779881F0-670E-4CD8-9EC9-64BEB19D706A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779881F0-670E-4CD8-9EC9-64BEB19D706A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B395E70-BB78-44B9-A69B-94C25F956691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B395E70-BB78-44B9-A69B-94C25F956691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B395E70-BB78-44B9-A69B-94C25F956691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B395E70-BB78-44B9-A69B-94C25F956691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
